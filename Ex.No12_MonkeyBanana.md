@@ -84,9 +84,7 @@ Step 7: Stop the program.<br>
  (:goal (and (hasbananas)))
 )
 ```
-
 ### Output/Plan:
 ![image](https://github.com/Maheswarikarthi/AI_Lab_2023-24/assets/127172770/898b848b-512f-4a80-a29a-37e4d2b550d2)
-
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
