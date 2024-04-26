@@ -63,9 +63,15 @@ app.launch(share=True)
 ### Output:
 ### 1.Dataset
 
+![image](https://github.com/NaveenKumar-008/AI_Lab_2023-24/assets/128135244/6fb19831-9f30-45e5-9ccb-53443a58844b)
+
 ### 2.Accuracy
 
+![image](https://github.com/NaveenKumar-008/AI_Lab_2023-24/assets/128135244/062baa01-205d-4728-aca6-0e540cc19831)
+
 ### 3.Output
+
+![image](https://github.com/NaveenKumar-008/AI_Lab_2023-24/assets/128135244/2007c99c-517c-4699-ade3-c70ddca03e0a)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
